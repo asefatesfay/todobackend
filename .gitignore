@@ -1,0 +1,7 @@
+# Virtual environment
+venv
+# Compiled python source files
+*.pyc
+
+# SQlite database files
+*.sqlite3
