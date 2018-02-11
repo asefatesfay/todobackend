@@ -5,3 +5,8 @@ venv
 
 # SQlite database files
 *.sqlite3
+
+# test files
+coverage.*
+nosetests.*
+.coverage
